@@ -75,5 +75,3 @@ curl -X DELETE http://localhost:3000/users/1
 ```
 
 ---
-
-Feel free to extend this project or connect it to a database for more advanced use cases! 
